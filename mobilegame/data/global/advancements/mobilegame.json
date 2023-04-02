@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Mobile Game",
+        "description": "Adds ads to your game to make it more immersive!!",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'BlueFalconHDPC'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

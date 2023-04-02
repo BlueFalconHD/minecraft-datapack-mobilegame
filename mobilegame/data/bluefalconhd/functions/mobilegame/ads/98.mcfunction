@@ -1,0 +1,1 @@
+tellraw @a [{"text": "        ⁹ ENDER EYE SERVER ⁹        \n", "color": "dark_purple"},{"text": "     The best ender eye potion      \n", "color": "gold"}]

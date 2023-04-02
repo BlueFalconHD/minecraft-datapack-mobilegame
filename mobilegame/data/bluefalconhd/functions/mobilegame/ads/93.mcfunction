@@ -1,0 +1,1 @@
+tellraw @a [{"text": "         ◆ ENDER SURVIVAL ◆         \n", "color": "gold"},{"text": "       The best ender server        \n", "color": "red"}]

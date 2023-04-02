@@ -1,0 +1,1 @@
+tellraw @a [{"text": "         ◇ ZOMBIE POTION ◇          \n", "color": "dark_purple"},{"text": "       Free zombie generator        \n", "color": "yellow"}]

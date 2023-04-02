@@ -1,0 +1,2 @@
+function bluefalconhd:mobilegame/rng/setup_rng
+function bluefalconhd:mobilegame/timer/setup
